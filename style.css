@@ -1,0 +1,33 @@
+.gallery img{
+    width: 100%; 
+}
+h2{
+    color:darkgoldenrod;
+    font-family: helvetica, sans-serif;
+}
+h4{
+    color:darkgoldenrod;
+    font-family: courier, sans-serif;
+    font-weight:700;
+}
+#menu{
+    width:100%;
+    height:40px;
+    background-color:rgb(218, 141, 53);
+    padding-top:20px;
+
+}
+
+#menu a{
+    color:azure;
+    font-family: helvetica, sans-serif;
+    font-size:18px;
+    text-decoration: none;
+    font-weight:800;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+#menu a:hover{
+    color:chocolate;
+}
